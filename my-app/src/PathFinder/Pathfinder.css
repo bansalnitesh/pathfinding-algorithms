@@ -1,0 +1,12 @@
+.grid {
+  height: 100vh;
+  line-height: 0;
+}
+#ctrl-bar {
+  height: 70px;
+  background-color: aliceblue;
+}
+#screen {
+  display: flex;
+  flex-direction: column;
+}

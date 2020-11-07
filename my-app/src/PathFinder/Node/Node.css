@@ -1,9 +1,8 @@
 .node {
-  width: 15px;
-  height: 15px;
-  outline: 1.5px solid rgb(227, 231, 235);
+  width: 30px;
+  height: 30px;
+  outline: 1px solid rgb(175, 216, 248);
   display: inline-block;
-  background-color: #171c28;
 }
 
 .node-finish {
