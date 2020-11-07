@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+//importing node from 
+import Node from './Node/Node';
 
 export default class PathFinder extends Component{
     constructor(){
@@ -11,7 +13,10 @@ export default class PathFinder extends Component{
     }
     render(){
         return(
-            <div>Hello</div>
+            <Node>
+
+                
+            </Node>
         )
     }
 }
