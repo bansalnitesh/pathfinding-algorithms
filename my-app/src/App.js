@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Pathfinder from './PathFinder/Pathfinder';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      </header>
-    </div>
+    <Pathfinder>
+      
+    </Pathfinder>
   );
 }
 
